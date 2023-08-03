@@ -11,4 +11,4 @@ In diesem Repository findet ihr die Beispiel-CAD-Modelle zum Artikel von heise+.
 
 ![Picture](https://github.com/MakeMagazinDE/FreeCAD-Explosionsgrafiken/blob/main/explode_master.png)
 
-**[Der Artikel auf heise+](https://github.com/MakeMagazinDE/3D-Druckdateien/tree/main/Mini-Arcade)** 
+**[Hier geht es zum Artikel auf heise+](https://github.com/MakeMagazinDE/3D-Druckdateien/tree/main/FreeCAD-Explosionsgrafiken)** 
